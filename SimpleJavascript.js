@@ -5,7 +5,7 @@ while(a--!=0){
     console.log(a);
     }
     console.log("good");
-    console.log("you are inside the loop");
+    
     if(a==90){
         console.log("value of is 90");
     }
