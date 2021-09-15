@@ -5,4 +5,7 @@ while(a--!=0){
     console.log(a);
     }
     console.log("you are inside the loop");
+    if(a==90){
+    console.log("you are at 90");
+    }
 }
