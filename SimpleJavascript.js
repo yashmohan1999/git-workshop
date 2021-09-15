@@ -5,7 +5,7 @@ while(a--!=0){
     console.log(a);
     }
     console.log("good");
-    
+    console.log("want to remove");
     if(a==90){
         console.log("value of is 90");
     }
