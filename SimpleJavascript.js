@@ -5,4 +5,5 @@ while(a--!=0){
     console.log(a);
     }
     console.log("good");
+    console.log("you are inside the loop");
 }
